@@ -1,0 +1,5 @@
+---
+layout: post
+author: ducanhdzdz
+---
+Hi!It's me again.After that, i will tell my girl friend who i love a long time ago.She is so beautiful. she is as old as me. she is a classmate. I like her so much ...
