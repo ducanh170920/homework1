@@ -1,5 +1,5 @@
 - name: Home
-  link: index.html
+  link: /
 - name: Contact
   link: Contact.html
 - name: Blog
